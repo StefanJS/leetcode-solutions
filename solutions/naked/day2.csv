@@ -1,0 +1,6 @@
+timestamp,quoteId,userId
+2024-07-22T08:00:00Z,quote128,user001
+2024-07-22T09:00:00Z,quote124,user002
+2024-07-22T10:00:00Z,quote130,user003
+2024-07-22T11:00:00Z,quote131,user001
+2024-07-22T12:00:00Z,quote132,user004
